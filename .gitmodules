@@ -1,0 +1,3 @@
+[submodule "DeepLatentMicrobiome"]
+	path = DeepLatentMicrobiome
+	url = https://github.com/jorgemf/DeepLatentMicrobiome.git
